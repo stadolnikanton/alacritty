@@ -1,0 +1,11 @@
+[general]
+import = ["~/.config/alacritty/theme.toml"]
+
+[window]
+dimensions = { columns = 80, lines = 24 }
+[font]
+normal = { family="Iosevka Nerd Font", style="Medium"}
+size = 18.0
+
+
+

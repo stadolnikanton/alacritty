@@ -1,11 +1,24 @@
 [general]
-import = ["~/.config/alacritty/theme.toml"]
+import = ["~/.config/alacritty/nordtheme.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }
+padding = {x = 15, y = 15}
+decorations = "Full"
+opacity = 1.0 
+blur = true
+
+
 [font]
 normal = { family="Iosevka Nerd Font", style="Medium"}
 size = 18.0
 
 
+[bell]
+animation = "Linear"
+duration = 3
 
+
+[cursor]
+style = {shape="Block", blinking="Always"}
+blink_interval = 500

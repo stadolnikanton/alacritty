@@ -3,15 +3,15 @@ import = ["~/.config/alacritty/themes/dracula.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }
-padding = { x = 30, y = 30 }
+padding = { x = 25, y = 25 }
 decorations = "Full"
 opacity = 1 
 blur = true
 
 
 [font]
-normal = { family="ZedMono Nerd Font", style="Bold"}
-size = 28.5
+normal = { family="ZedMono Nerd Font", style="Regular"}
+size = 22.5
 
 
 [bell]

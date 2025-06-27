@@ -8,6 +8,8 @@ decorations = "Full"
 opacity = 1 
 blur = true
 
+[terminal]
+shell = { program = "/opt/homebrew/bin/fish", args = ["--login"] }
 
 [font]
 normal = { family="ZedMono Nerd Font", style="Regular"}

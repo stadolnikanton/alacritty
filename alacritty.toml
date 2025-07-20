@@ -10,7 +10,7 @@ blur = true
 
 [font]
 normal = { family="ZedMono Nerd Font", style="Regular"}
-size = 22.5
+size = 24.5
 
 
 [bell]

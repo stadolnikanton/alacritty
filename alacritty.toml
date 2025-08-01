@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/dracula.toml"]
+import = ["~/.config/alacritty/themes/roze_pine.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }

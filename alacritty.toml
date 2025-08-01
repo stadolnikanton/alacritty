@@ -15,7 +15,7 @@ size = 24.5
 
 [bell]
 animation = "Linear"
-duration = 10 
+duration = 100
 
 
 [cursor]

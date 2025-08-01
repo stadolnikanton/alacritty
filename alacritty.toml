@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/roze_pine.toml"]
+import = ["~/.config/alacritty/themes/afterglow.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }

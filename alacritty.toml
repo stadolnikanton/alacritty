@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/gruvbox-dark.toml"]
+import = ["~/.config/alacritty/themes/ayu_dark.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }

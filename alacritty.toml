@@ -1,16 +1,16 @@
 [general]
-import = ["~/.config/alacritty/themes/everforest_dark.toml"]
+import = ["~/.config/alacritty/themes/pencil_dark.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }
-padding = { x = 25, y = 25 }
+padding = { x = 0, y = 0 }
 decorations = "Full"
 opacity = 1.0
 blur = true
 
 [font]
 normal = { family="ZedMono Nerd Font", style="Light"}
-size = 25.0
+size = 28.0
 
 
 [bell]

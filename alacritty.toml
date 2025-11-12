@@ -5,19 +5,22 @@ import = ["~/.config/alacritty/themes/nord.toml"]
 dimensions = { columns = 80, lines = 24 }
 padding = { x = 0, y = 0 }
 decorations = "Full"
-opacity = 1.0
+opacity = 1.0 
 blur = true
+startup_mode = "Fullscreen"
+
+title = "Development"
+dynamic_title = false
 
 [font]
-normal = { family="ZedMono Nerd Font", style="Light"}
-size = 28.0
-
+normal = { family="ZedMono Nerd Font", style='Light'}
+size = 22.5
+offset = { x = -1, y = -5}
 
 [bell]
-animation = "Linear"
-duration = 100
+animation = "EaseOutCubic"
+duration = 1000
 
 
 [cursor]
-style = {shape="Block", blinking="Always"}
-blink_interval = 1000000000 
+style = {shape="Beam", blinking="off"}

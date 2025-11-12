@@ -19,8 +19,8 @@ offset = { x = -1, y = -5}
 
 [bell]
 animation = "EaseOutCubic"
-duration = 1000
+duration = 10
 
 
 [cursor]
-style = {shape="Beam", blinking="off"}
+style = {shape="Block", blinking="off"}

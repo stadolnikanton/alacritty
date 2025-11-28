@@ -1,20 +1,17 @@
 [general]
-import = ["~/.config/alacritty/themes/nord.toml"]
+import = ["~/.config/alacritty/themes/nordic.toml"]
 
 [window]
 dimensions = { columns = 80, lines = 24 }
 padding = { x = 0, y = 0 }
 decorations = "Full"
-opacity = 1.0 
+opacity = 1.0
 blur = true
-startup_mode = "Fullscreen"
 
-title = "Development"
-dynamic_title = false
 
 [font]
 normal = { family="ZedMono Nerd Font", style='Light'}
-size = 22.5
+size = 19.5
 offset = { x = -1, y = -5}
 
 [bell]
